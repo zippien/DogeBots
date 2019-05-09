@@ -1,2 +1,2 @@
-# DogeBot
-Vide Tutorial pada link ini :
+# DogeBot !
+Video Tutorial Nyusul gan
