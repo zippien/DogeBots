@@ -1,5 +1,5 @@
 # DogeBot !
-Video Tutorial Nyusul gan
+Video Tutorial : https://youtu.be/svk7vh8uMu8
 
 https://t.me/BitcoinClick_bot?start=bDqS
 
