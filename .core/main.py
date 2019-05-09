@@ -97,17 +97,17 @@ try:
   UravxBuCwNMpYWTzKhPI("\033[1;31m|     ||     ||  l_ ||   [_ \033[1;37m|  O  ||     |  |  |  ")
   UravxBuCwNMpYWTzKhPI("\033[1;31m|     |l     !|     ||     T\033[1;37m|     |l     !  |  |  ")
   UravxBuCwNMpYWTzKhPI("\033[1;31ml_____j \___/ l___,_jl_____j\033[1;37ml_____j \___/   l__j  \n")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mAuthor   \033[0;37m: Njank Soekamti")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mYoutube  \033[0;37m: Njank Soekamti")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mGithub   \033[0;37m: N74NK")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mWhatsapp \033[0;37m: +19164619160\n")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mAuthor   \033[0;37m: zippien")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mYoutube  \033[0;37m: zippien andrian")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mGithub   \033[0;37m: zippien")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36minstagram \033[0;37m: zippien\n")
  async def UravxBuCwNMpYWTzKhPF():
   if not UravxBuCwNMpYWTzKhPb.exists("session"):
    UravxBuCwNMpYWTzKhPo("session")
   UravxBuCwNMpYWTzKhPt()
   if UravxBuCwNMpYWTzKhPg(UravxBuCwNMpYWTzKhPs)<2:
    UravxBuCwNMpYWTzKhPI(" \033[1;91mUsage\033[0m: python main.py phone_number",end="\n\n")
-   UravxBuCwNMpYWTzKhPI(" phone_number must be write in internasional \n format (example: +6283174705555)\n")
+   UravxBuCwNMpYWTzKhPI(" phone_number must be write in internasional \n format (example: +62895365636822)\n")
    UravxBuCwNMpYWTzKhRA(1)
   UravxBuCwNMpYWTzKhcl=UravxBuCwNMpYWTzKhcI(UravxBuCwNMpYWTzKhPs[1])
   await UravxBuCwNMpYWTzKhcl.start(UravxBuCwNMpYWTzKhPs[1])
